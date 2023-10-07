@@ -15,19 +15,19 @@ body{
     visibility: hidden;
 }
 
-#button{
+.button{
     margin-top: 15%;
     top: 50%;
     padding: 0 50px;
-    font-size: 200px;
+    font-size: 50px;
     font-family: cursive;
     background-color: rgb(172, 79, 141);
-    border: 30px solid rgb(59, 0, 23);
+    border: 10px solid rgb(59, 0, 23);
     border-radius: 500px;
     color: rgb(61, 18, 66);
     cursor: pointer;
 }
 
-#button:hover {
+.button:hover {
     background-color: rgb(95, 39, 77);
 }
