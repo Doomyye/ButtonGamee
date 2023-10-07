@@ -2,7 +2,7 @@ body{
     justify-content: center;
     align-items: center;
     text-align: center;
-    background-color: crimson;
+    background-color: rgb(243, 102, 130);
 }
 
 #picture{
@@ -21,11 +21,13 @@ body{
     padding: 0 50px;
     font-size: 200px;
     font-family: cursive;
-    background-color: rgb(134, 19, 96);
-    border: 30px solid;
+    background-color: rgb(172, 79, 141);
+    border: 30px solid rgb(59, 0, 23);
+    border-radius: 500px;
+    color: rgb(61, 18, 66);
     cursor: pointer;
 }
 
 #button:hover {
-    background-color: rgb(71, 10, 51);
+    background-color: rgb(95, 39, 77);
 }
